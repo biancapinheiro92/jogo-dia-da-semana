@@ -15,7 +15,7 @@ if (diaDaSemana == 'Sábado') {
         alert('Número negativo!');
     }
 
-    pontuacao = 105;
+    pontuacao = 106;
     if (pontuacao >= 100) {
         console.log ('Parabéns, você venceu!');
     } else {
