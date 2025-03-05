@@ -16,7 +16,7 @@ if (diaDaSemana == 'Sábado') {
     }
 
     pontuacao = 106;
-    if (pontuacao >= 100) {
+    if (pontuacao >= 106) {
         console.log ('Parabéns, você venceu!');
     } else {
         console.log ('Tente novamente para ganhar!');
